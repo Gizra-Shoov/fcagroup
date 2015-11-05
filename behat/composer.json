@@ -1,0 +1,10 @@
+{
+  "name": "Behat tests for http://www.fcagroup.com/en-US/Pages/home.aspx",
+  "description": "Functional testing for http://www.fcagroup.com/en-US/Pages/home.aspx site.",
+  "require": {
+    "drupal/drupal-extension": "~3.0"
+  },
+  "config": {
+    "bin-dir": "bin/"
+  }
+}
